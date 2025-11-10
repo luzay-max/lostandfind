@@ -1,0 +1,1 @@
+注意要打开redis-server.exe  不要关闭终端
